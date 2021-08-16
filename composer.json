@@ -1,0 +1,18 @@
+{
+    "name": "gong86627/bobo",
+    "description": "this is a test app",
+    "authors": [
+        {
+            "name": "gongyuanlin",
+            "email": "gong86627@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "gong86627\\bobo\\": "src/"
+        }
+    }
+}
