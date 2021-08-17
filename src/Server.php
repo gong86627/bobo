@@ -11,6 +11,6 @@ class Server
      */
     public function info(): string
     {
-        return sys_get_temp_dir();
+        return strtoupper('hello world!');
     }
 }
